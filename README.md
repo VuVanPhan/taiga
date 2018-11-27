@@ -1,7 +1,7 @@
 # Taiga Integrations 
-##- changing element status via commit message
-###   - you need commit to folder code
+## - changing element status via commit message
 ```sh
+   - you need commit to folder code
    git commit -m "TG-REF #STATUS-slug"
       + REF : US/Issue/Task reference of the element you want to modify
       + STATUS : new status slug to set.
