@@ -10,3 +10,4 @@
 	TG-X feature-branch#dev-in-progress dev#dev-complete master#closed
 	Ex : git commit -m "TG-1 #closed"
 	     git commit -m "TG-1 develop #in-progress branch1 #closed"
+
